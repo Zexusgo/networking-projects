@@ -2,7 +2,7 @@
 
 ---
 
-![Screenshot](repo_layer-1/images1.png)
+![Screenshot](repo_layer-1/image1.png)
 
 # 🔹 **Project Title**
 
@@ -29,7 +29,7 @@ Understand how devices connect physically using cables and switches, and how cab
 
 Result:
 
-![image.png](repo_layer-1/images2.png)
+![image.png](repo_layer-1/image2.png)
 
 # 📚 **Deep Dive: What’s Actually Happening**
 
