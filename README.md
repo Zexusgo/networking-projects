@@ -2,7 +2,7 @@
 
 ---
 
-![image.png](repo_layer-1/images1.png)
+![Screenshot](repo_layer-1/images1.png)
 
 # 🔹 **Project Title**
 
