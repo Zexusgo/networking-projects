@@ -2,7 +2,8 @@
 
 ---
 
-![Screenshot](repo_layer-1/image1.png)
+![Screenshot] (C:\Users\shres\Downloads\Cisco packet tracer saves\repo_layer-1\image1.png)
+
 
 # 🔹 **Project Title**
 
